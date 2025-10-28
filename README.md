@@ -1,6 +1,6 @@
 # Smooth, Draggable Product Grid
 
-Building a Smooth, Draggable Product Grid with GSAP: Recreating Palmer's Experience.
+Building a Smooth, Draggable Product Grid with GSAP
 
 <img width="1698" height="875" alt="image" src="https://github.com/user-attachments/assets/4539c464-b4f2-4e71-83ae-18c9330565b7" />
 
